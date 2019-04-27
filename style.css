@@ -1,0 +1,10 @@
+body {
+  margin:0;
+  padding: 0;
+  text-align: center;
+}
+
+h1, p {
+  font-family: Lato;
+}
+
